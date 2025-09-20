@@ -1,0 +1,26 @@
+# Build files
+/build/
+/app/build/
+*.apk
+*.aab
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Local configuration
+local.properties
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
